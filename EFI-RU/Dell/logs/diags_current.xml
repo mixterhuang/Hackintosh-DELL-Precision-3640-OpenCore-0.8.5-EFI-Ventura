@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>1</LogNumber>
+    <LogTimeStamp>06/17/2022 08:44:40</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Not Reported</Result>
+      <ReturnCode>BOOT_HOST_OS</ReturnCode>
+      <LogData>
+        <ePSALogTimeStamp>06/17/2022 08:44:35</ePSALogTimeStamp>
+        <ePSAVersion>ED.1.0.10</ePSAVersion>
+        <ErrorCode>2000:0000</ErrorCode>
+        <ValidationCode>74774</ValidationCode>
+        <ErrorMessage><![CDATA[No bootable devices found.
+]]></ErrorMessage>
+      </LogData>
+      <ePSAInfo><![CDATA[serviceTag=5V43VK3&errCode=0000&ValCode=74774&fru=_&uID=0FBCB]]></ePSAInfo>
+      <ePSAFullVersion>ED.1.0.10</ePSAFullVersion>
+      <ePSAInvocationCount>3</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>NO_BOOT</ErrorCategory>
+      <Flags>BIOSCONNECT_ENABLED</Flags>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>
