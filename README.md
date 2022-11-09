@@ -1,6 +1,6 @@
-# Hackintosh-DELL-Precision-3640-OpenCore-0.8.1-EFI-Monterey
+# Hackintosh-DELL-Precision-3640-OpenCore-0.8.5-EFI-Ventura
 解决不支持4K输出及不能开启HiDPI问题
-## 配置：DELL 3640 CPU 10700, UHD 630 GPU, BIOS 1.14.X, Monterey 12.4
+## 配置：DELL 3640 CPU 10700, UHD 630 GPU, BIOS 1.14.X, Monterey 12.4/Ventura 13.0
 ## 启动按 F2 <b>设置BIOS</b>
 
 | 项目             | 值            |
